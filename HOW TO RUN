@@ -1,0 +1,9 @@
+## CLONE THE REPOSITORY
+git clone https://github.com/Aditya1534/pyqt-network-sniffer.git
+cd pyqt-network-sniffer
+
+## Install Required Dependencies
+pip install pyqt5 scapy pyyaml
+
+## Run the Application
+sudo python gui.py
